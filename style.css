@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-family: cursive;
+}
+
+#heading {
+    font-weight: bolder;
+    font-size: 45px;
+    color: linear-gradient(#ffffff 5%, #149ed9 50%, #143691 40%);
+}
+
+button {
+    background-color: white;
+    color: black;
+    border: white;
+    border-radius: 75px;
+    border-width: 4px;
+    border-style: solid;
+}
